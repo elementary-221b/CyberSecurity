@@ -1,0 +1,11 @@
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+h2 {
+    margin-top: 2rem;
+}
+
+.card {
+    margin: 1rem 0;
+}
